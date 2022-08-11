@@ -1,22 +1,25 @@
 {
-  "name": "testpackages",
+  "name": "@weberdaniel/testpackages",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"OK: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/weberdaniel/testpackages.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "daniel weber",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/weberdaniel/testpackages/issues"
   },
   "publishConfig": {
-   "@weberdaniel:registry": "https://npm.pkg.github.com"
+    "@weberdaniel:registry": "https://npm.pkg.github.com"
   },
-  "homepage": "https://github.com/weberdaniel/testpackages#readme"
+  "homepage": "https://github.com/weberdaniel/testpackages#readme",
+  "description": "any",
+  "keywords": [
+    "any"
+  ]
 }
