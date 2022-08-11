@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/weberdaniel/testpackages/issues"
   },
+  "publishConfig": {
+   "@weberdaniel:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/weberdaniel/testpackages#readme"
 }
